@@ -1,0 +1,24 @@
+title: TechWorkshop L400 - Innovate with Low Code and AI Agents
+description: This lab guides you through designing your own AI-powered copilot using low-code tools and AI agents.
+theme: just-the-docs
+
+aux_links:
+  "Innovate with Low Code and AI Agents": 
+    - "https://github.com/microsoft/techworkshop-l400-innovate-with-low-code-and-ai-agents"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
